@@ -1,0 +1,5 @@
+package com.example.employee_leave_management_
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
